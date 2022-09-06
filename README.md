@@ -14,3 +14,6 @@
 - index.html 主页面
 - index.js 入口文件
 - App.js 应用外壳，所有组件放入该文件
+
+## 其他
+- git add -f 重新添加被忽略的文件
