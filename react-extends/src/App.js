@@ -1,13 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 
-import Hooks from './hooks/index'
+import Contextt from './context/index'
 
 function App() {
   return (
     <div>
-      <h1>拓展知识 ... ...</h1>
-      <Hooks/>
+      <Contextt/>
     </div>
   );
 }

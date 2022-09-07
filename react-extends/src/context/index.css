@@ -1,0 +1,17 @@
+.p{
+    width: 1000px;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.c{
+    width: 100%;
+    background-color: azure;
+    padding: 10px;
+}
+
+.g{
+    width: 100%;
+    background-color: blanchedalmond;
+    padding: 10px;
+}
